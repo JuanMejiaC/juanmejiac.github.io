@@ -1,0 +1,62 @@
+
+body {
+  height: 100%; 
+  background: url(assets/Twin-trees.jpg) no-repeat center center fixed;  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  font-family: "Montserrat";
+  color: whitesmoke;
+  font-size: 1.25rem;
+}
+
+hr {
+  width: 8%;
+  border: 1rem;
+  border-style: dotted none none none;
+  border-color: #9b3675;
+  margin: 8rem auto 8rem;
+}
+
+/* nav-bar */
+.navbar-custom {
+  background: #9b3675;
+}
+
+/* section */
+section {
+  margin: 3%;
+  background: rgba(206, 230, 180, 0.8);
+  padding: 3% 3%;
+}
+
+
+.mypic {
+  border-radius: 30%;
+} 
+
+.footer-custom {
+  margin-top: 10%;
+  background: #9b3675;
+}
+
+
+.links{
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
+
+.copyright {
+  color:wheat;
+}
+
+
+
+/* repos page */
+.repo-desc {
+  background: #9b3675;
+  border-top: 1px solid white;
+}
